@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C%23-blueviolet?style=flat-square&logo=C#logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-success?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
@@ -20,7 +19,6 @@
   <img src="https://img.shields.io/badge/Oracle-red?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Npm-DB3552?style=flat-square&logo=Npm&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/fastapi-57cfa3?style=flat-square&logo=fastapi&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/express-lightgray?style=flat-square&logo=express&logoColor=white"/></a>&nbsp
 </p>
 
