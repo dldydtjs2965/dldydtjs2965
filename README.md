@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Flask-lightgray?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Oracle-red?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Npm-DB3552?style=flat-square&logo=Npm&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/express-lightgray?style=flat-square&logo=express&logoColor=white"/></a>&nbsp
 </p>
